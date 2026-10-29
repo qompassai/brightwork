@@ -1,0 +1,8 @@
+[package]
+name = "brightwork"
+version = "0.1.0"
+edition = "2024"
+description = "Brightwork: a local-first photo-enhancement library in Rust - hash-pinned ONNX model manager (matting, inpainting, face restoration) that embeds as finishing tools inside media producers. Name reservation; implementation in development."
+license = "Apache-2.0"
+keywords = ["photo", "image", "enhancement", "onnx", "mcp"]
+categories = ["multimedia::images"]
